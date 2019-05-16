@@ -1,0 +1,9 @@
+Datasource:
+https://www.transtats.bts.gov/DL_SelectFields.asp
+
+https://www.transtats.bts.gov/
+-> "Database Directory"
+-> "Airline On-Time Performance Data"
+-> "Reporting Carrier On-Time Performance (1987-present)" - "Download"
+-> Filter Period: [each month seperately, Jan, Feb, etc.]
+-> select fields noted in my 'legend.xlsx' file
